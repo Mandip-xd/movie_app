@@ -36,7 +36,6 @@ body {
     flex-direction: column;
 }
 
-/* Header */
 .site-header {
     display: flex;
     flex-wrap: wrap;
@@ -85,7 +84,6 @@ body {
     background: var(--accent-hover) !important;
 }
 
-/* Main */
 .main-content {
     flex: 1;
     max-width: 980px;
@@ -226,7 +224,6 @@ body {
     color: var(--text);
 }
 
-/* Table */
 .movie-table {
     width: 100%;
     border-collapse: collapse;
@@ -310,7 +307,6 @@ body {
     color: #fca5a5;
 }
 
-/* Forms */
 .form-card {
     max-width: 440px;
     padding: 2rem;
@@ -418,7 +414,6 @@ body {
     text-decoration: underline;
 }
 
-/* Footer */
 .site-footer {
     text-align: center;
     padding: 1.25rem 1.5rem;
@@ -428,7 +423,6 @@ body {
     background: var(--bg-card);
 }
 
-/* Responsive */
 @media (max-width: 640px) {
     .site-header {
         flex-direction: column;

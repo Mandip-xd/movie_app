@@ -1,5 +1,4 @@
 <?php
-// Security: No file uploads in this project; file upload validation requirement N/A.
 require_once __DIR__ . '/../config/db.php';
 require_once __DIR__ . '/../includes/auth.php';
 require_once __DIR__ . '/../includes/csrf.php';
