@@ -68,7 +68,6 @@ Public users can view movie information without logging in.
 ## 7. GitHub Repository
 
 (https://github.com/Mandip-xd/movie_app) 
-Sensitive files such as database credentials and SQL files are excluded from the repository for security reasons.
 
 ---
 
