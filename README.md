@@ -17,7 +17,7 @@ The system is deployed on the Herald College student server and demonstrates CRU
 
 **Admin Login**
 
-* Username: `admin`
+* Username: `@dmin123`
 * Password: `@dmin123`
 
 Public users can view movie information without logging in.
